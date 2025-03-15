@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Jeremiah James Curias!  
+👨‍💻 Computer Science Student | Aspiring Developer | Tech Enthusiast  
 
-<!--
-**curiaz/curiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer currently studying Computer Science at Taguig City University. I love working on web applications, backend systems, and exploring new technologies.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me  
+- 🎓 Studying BS Computer Science at Taguig City University  
+- 💻 Experienced in C#, ASP.NET Core, SQL Server, PHP, Python, and Java  
+- 🌐 Interested in web development, parallel computing, and system design  
+- 🔍 Currently working on a Human Resource Management System  
+
+
+💡 Skills  
+- Languages: C#, Java, PHP, Python, JavaScript  
+- Frameworks: ASP.NET Core, Entity Framework, React, Bootstrap  
+- Databases: SQL Server, MySQL, MariaDB  
+- Tools: Git, Visual Studio, VS Code, Postman  
+
+
+
+📫 Connect with Me  
+
+- ✉️ jeremiahcurias@gmail.com  
+
