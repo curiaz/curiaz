@@ -1,8 +1,7 @@
 👋 Hi, I'm Jeremiah James Curias!  
 👨‍💻 Computer Science Student | Aspiring Developer | Tech Enthusiast  
 
-Welcome to my GitHub profile! I'm a passionate developer currently studying Computer Science at Taguig City University. I love working on web applications, backend systems, and exploring new technologies.  
-
+currently studying Computer Science at Taguig City University. I love working on web applications, backend systems, and exploring new technologies.  
 
 🚀 About Me  
 - 🎓 Studying BS Computer Science at Taguig City University  
@@ -10,16 +9,12 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying Comp
 - 🌐 Interested in web development, parallel computing, and system design  
 - 🔍 Currently working on a Human Resource Management System  
 
-
 💡 Skills  
 - Languages: C#, Java, PHP, Python, JavaScript  
 - Frameworks: ASP.NET Core, Entity Framework, React, Bootstrap  
 - Databases: SQL Server, MySQL, MariaDB  
 - Tools: Git, Visual Studio, VS Code, Postman  
 
-
-
 📫 Connect with Me  
-
 - ✉️ jeremiahcurias@gmail.com  
 
