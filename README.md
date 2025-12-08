@@ -6,8 +6,8 @@ Currently studying Computer Science at Taguig City University. I love working on
 🚀 About Me  
 - 🎓 Studying BS Computer Science at Taguig City University  
 - 💻 Experienced in C#, ASP.NET Core, SQL Server, PHP, Python, and Java  
-- 🌐 Interested in web development, and system design  
-- 🔍 Currently working on a Human Resource Management System  
+- 🌐 Interested in web development, and system designs
+- 🔍 Currently working on Medichain: AI Driven Prescription and Diagnosis for Common Illnesses
 
 💡 Skills  
 - Languages: C#, Java, PHP, Python, JavaScript  
