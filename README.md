@@ -14,6 +14,7 @@ Currently studying Computer Science at Taguig City University. I love working on
 - Frameworks: ASP.NET Core, Entity Framework, React, Bootstrap  
 - Databases: SQL Server, MySQL, MariaDB  
 - Tools: Git, Visual Studio, VS Code 
+- Design: Figma, Canva
 
 📫 Connect with Me  
 - ✉️ jeremiahcurias@gmail.com  
