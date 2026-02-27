@@ -7,11 +7,11 @@ About Me
 - Studying BS Computer Science at Taguig City University  
 - Experienced in C#, ASP.NET Core, SQL Server, PHP, Python, and Java  
 - Interested in web development, and system designs
-- Currently working on Medichain: AI Driven Prescription and Diagnosis for Common Illnesses
+- Currently working as Software Developer Intern
 
 Skills  
 - Languages: C#, Java, PHP, Python, JavaScript  
-- Frameworks: ASP.NET Core, Entity Framework, React, Bootstrap  
+- Frameworks: ASP.NET Core, Entity Framework, React, Bootstrap, Next JS 
 - Databases: SQL Server, MySQL, MariaDB  
 - Tools: Git, Visual Studio, VS Code 
 - Design: Figma, Canva
