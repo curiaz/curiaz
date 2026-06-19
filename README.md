@@ -1,10 +1,8 @@
 Hi, I'm Jeremiah James Curias!  
-Computer Science Student | Aspiring Developer | Tech Enthusiast  
-
-Currently studying Computer Science at Taguig City University. I love working on web applications, backend systems, and exploring new technologies.  
+Computer Science Graduate | Aspiring Developer | Tech Enthusiast  
 
 About Me  
-- Studying BS Computer Science at Taguig City University  
+- Bachekor of Science in Computer Science Gradyate 
 - Experienced in C#, ASP.NET Core, SQL Server, PHP, Python, and Java  
 - Interested in web development, and system designs
 - Currently working as Software Developer Intern
