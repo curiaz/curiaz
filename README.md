@@ -2,7 +2,7 @@ Hi, I'm Jeremiah James Curias!
 Computer Science | Aspiring Developer | Tech Enthusiast  
 
 About Me  
-- Bachekor of Science in Computer Science Graduate 
+- Bachelor of Science in Computer Science Graduate 
 - Experienced in C#, ASP.NET Core, SQL Server, PHP, Python, and Java  
 - Interested in web development, and system designs
 - Currently working as Software Developer 
