@@ -190,9 +190,17 @@ for creating and managing online stores.
 ## CONTRIBUTIONS
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
 </picture>
 
 </div>
