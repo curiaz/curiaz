@@ -189,19 +189,24 @@ for creating and managing online stores.
 
 ## CONTRIBUTIONS
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg">
+<br>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiaz&theme=github_dark"
+  width="95%"
+/>
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
-</picture>
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+  height="170"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=curiaz&theme=github-dark-blue&hide_border=true"
+  height="170"
+/>
 
 </div>
 
