@@ -129,7 +129,7 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 ## CURRENTLY
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Improving+Python;⚛️+Building+with+Next.js;🔐+Learning+Cybersecurity;🚀+Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+Web+Applications;Learning+Cybersecurity;Improving+Python;Exploring+Next.js;Creating+Cool+Projects+%F0%9F%9A%80" />
 
 </div>
 
@@ -139,27 +139,9 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 <div align="center">
 
-## GITHUB
+## GITHUB ACTIVITY
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiaz&layout=compact&theme=github_dark&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=curiaz&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-
-<div align="center">
-
-## GITHUB TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=curiaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=curiaz&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
