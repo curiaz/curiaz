@@ -1,222 +1,192 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Jeremiah James Curias
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=JEREMIAH%20CURIAZ&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Aspiring%20SOC%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;C%23+%7C+ASP.NET+Core+%7C+React+%7C+Python;Building%2C+Learning%2C+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Web+Applications+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+JavaScript;Next.js+%7C+FastAPI+%7C+Flask;Always+Learning+%F0%9F%94%A5" />
 </a>
-
-<p>
-  <a href="https://jeremiahcurias.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/curias-jeremiah-james-a-b71076320/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jeremiahcurias@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=curiaz&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Jeremiah James Curias**, a Computer Science graduate and Software Developer who enjoys building applications, exploring new technologies, and turning ideas into functional systems.
-
-I'm particularly interested in **web development, backend development, system design, and creating clean user experiences**.
-
-* 🎓 Bachelor of Science in Computer Science Graduate
-* 💻 Software Developer
-* 🌐 Interested in Web Development
-* 🚀 Building projects with modern technologies
-* 🧠 Continuously learning and improving
-* 🎨 Interested in UI/UX and system design
-* 🔧 Enjoy working with both frontend and backend technologies
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,php,python,js,ts" />
-  </a>
-</p>
-
-### 🌐 Frameworks & Libraries
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,bootstrap" />
-  </a>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-  </a>
-</p>
-
-<p align="center">
-  <b>SQL Server</b> • <b>MySQL</b> • <b>MariaDB</b> • <b>PostgreSQL</b> • <b>Supabase</b>
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-  </a>
-</p>
-
-### 🎨 Design
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Figma</b> • <b>Canva</b>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-|              Project             | Description                        | Technology |
-| :------------------------------: | :--------------------------------- | :--------: |
-|         🏥 **Medichain**         | Healthcare-related web application | JavaScript |
-| 🧮 **Calculator Android Studio** | Android calculator application     |    Java    |
-|         🏢 **MgtSystem**         | Management system application      |   VB.NET   |
-|       👥 **KewnsR / HRIS**       | Human Resource Information System  |    HTML    |
-
-</div>
-
----
-
-## 💡 What I'm Currently Doing
-
-```text
-💻 Developing software applications
-🌐 Building web applications
-🔧 Improving my backend development skills
-⚛️ Working with React and modern frontend technologies
-🟣 Exploring ASP.NET Core and C#
-🐍 Continuing to improve my Python skills
-📚 Learning new tools and development practices
-🚀 Building projects for my developer portfolio
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiaz&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=curiaz&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 My Development Journey
-
-```text
-Computer Science
-       │
-       ▼
-   Programming
-       │
-       ├── C#
-       ├── Java
-       ├── Python
-       ├── PHP
-       └── JavaScript / TypeScript
-       │
-       ▼
-  Web Development
-       │
-       ├── ASP.NET Core
-       ├── React
-       ├── Next.js
-       └── Bootstrap
-       │
-       ▼
- Database & Backend
-       │
-       ├── SQL Server
-       ├── MySQL
-       ├── MariaDB
-       ├── PostgreSQL
-       └── Supabase
-       │
-       ▼
-  🚀 Software Developer
-```
-
----
-
-## 🎯 My Goals
-
-* 🚀 Become a stronger full-stack developer
-* 🏗️ Build production-ready applications
-* 🌐 Improve my web development skills
-* 🧠 Learn better software architecture and design patterns
-* ☁️ Explore cloud technologies and deployment
-* 📚 Continue learning and contributing to projects
-* 💼 Grow professionally as a Software Developer
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
+<a href="https://github.com/curiaz">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 <a href="https://jeremiahcurias.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/curias-jeremiah-james-a-b71076320/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:jeremiahcurias@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
+
 <div align="center">
 
-### 💻 "Build. Learn. Improve. Repeat."
+## ⚡ ABOUT ME
+
+**Software Developer • Web Developer • Security Enthusiast**
+
+</div>
+
+<p align="center">
+I build web applications, experiment with new technologies,
+and enjoy solving technical problems.
+</p>
+
+---
+
+<!-- ===================== STACK ===================== -->
+
+<div align="center">
+
+## 🧰 TECH STACK
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs" />
+
+### Database & Backend
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,postgresql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<div align="center">
+
+## 🚀 PROJECTS
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🏥 MediChain
+
+AI-driven diagnosis and prescription system with blockchain-integrated health records.
+
+**Python • Flask • JavaScript • Blockchain**
+
+</td>
+
+<td width="50%">
+
+### 🎬 Inspire Cinema
+
+Cinema booking platform with customer movie/ticket flows and an admin dashboard.
+
+**Next.js • React • TypeScript • Tailwind**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏪 Pawnshop Management
+
+Web-based pawnshop management system with finance, inventory, employees and operations.
+
+**Next.js • TypeScript • Prisma • PostgreSQL**
+
+</td>
+
+<td width="50%">
+
+### 🛒 Content Management System
+
+E-commerce CMS for creating and managing online stores without complex coding.
+
+**TypeScript • JavaScript • Supabase**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== CURRENTLY ===================== -->
+
+<div align="center">
+
+## 🔭 CURRENTLY
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Improving+Python;⚛️+Building+with+Next.js;🔐+Learning+Cybersecurity;🚀+Building+Real-World+Projects" />
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ===================== -->
+
+<div align="center">
+
+## 📊 GITHUB
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiaz&layout=compact&theme=github_dark&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=curiaz&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+<div align="center">
+
+## 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=curiaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION ===================== -->
+
+<div align="center">
+
+## 🐍 CONTRIBUTIONS
+
+<img src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
 
 <br>
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+### `BUILD • LEARN • DEBUG • REPEAT`
+
+<img src="https://komarev.com/ghpvc/?username=curiaz&label=PROFILE+VIEWS&color=238636&style=flat-square"/>
 
 </div>
