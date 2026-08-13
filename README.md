@@ -2,22 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Python+%7C+TypeScript+%7C+JavaScript;Next.js+%7C+FastAPI+%7C+Flask;Building+%7C+Learning+%7C+Improving" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Web+Developer;Building+%7C+Learning+%7C+Improving" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/curiaz">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://jeremiahcurias.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/curias-jeremiah-james-a-b71076320/">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -32,28 +28,13 @@
 
 ## ABOUT ME
 
+Computer Science graduate and Software Developer focused on building practical,
+user-focused applications across frontend, backend, and database systems.
+
+Interested in web development, backend engineering, cybersecurity, and learning
+new technologies through real-world projects.
+
 </div>
-
-<p align="center">
-Computer Science graduate and Software Developer focused on building
-practical and user-focused applications.
-</p>
-
-<p align="center">
-Experienced in developing web applications, management systems,
-content platforms, and database-driven applications.
-</p>
-
-<p align="center">
-I enjoy working across frontend and backend development,
-learning new technologies, solving technical problems,
-and turning ideas into functional software.
-</p>
-
-<p align="center">
-Currently expanding my skills in web development, backend engineering,
-and cybersecurity.
-</p>
 
 ---
 
@@ -63,27 +44,7 @@ and cybersecurity.
 
 ## TECH STACK
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
-
-<br><br>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs" />
-
-<br><br>
-
-### Database & Backend
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase,postgresql" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,fastapi,flask,nodejs,supabase,firebase,postgresql,git,github,vscode,figma&perline=9" />
 
 </div>
 
@@ -100,31 +61,17 @@ and cybersecurity.
 
 <td width="50%" align="center">
 
-<h3>MediChain</h3>
-
-<p>
-Healthcare platform with AI-assisted diagnosis
-and blockchain-integrated health records.
-</p>
-
-<code>Python</code>
-<code>Flask</code>
-<code>JavaScript</code>
+<b>MediChain</b><br>
+Healthcare platform with AI-assisted diagnosis and blockchain-integrated records.<br>
+<sub>Python · Flask · JavaScript</sub>
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>Inspire Cinema</h3>
-
-<p>
-Cinema booking platform with customer
-and administrative management features.
-</p>
-
-<code>Next.js</code>
-<code>React</code>
-<code>TypeScript</code>
+<b>Inspire Cinema</b><br>
+Cinema booking platform with customer and administrative features.<br>
+<sub>Next.js · React · TypeScript</sub>
 
 </td>
 
@@ -134,31 +81,17 @@ and administrative management features.
 
 <td width="50%" align="center">
 
-<h3>Pawnshop Management</h3>
-
-<p>
-Management system covering finance,
-inventory, employees, and operations.
-</p>
-
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>PostgreSQL</code>
+<b>Pawnshop Management</b><br>
+Management system for finance, inventory, employees, and operations.<br>
+<sub>Next.js · TypeScript · PostgreSQL</sub>
 
 </td>
 
 <td width="50%" align="center">
 
-<h3>Content Management System</h3>
-
-<p>
-Content and e-commerce management platform
-for creating and managing online stores.
-</p>
-
-<code>TypeScript</code>
-<code>JavaScript</code>
-<code>Supabase</code>
+<b>Content Management System</b><br>
+CMS and e-commerce platform for managing online stores and content.<br>
+<sub>TypeScript · JavaScript · Supabase</sub>
 
 </td>
 
@@ -169,38 +102,22 @@ for creating and managing online stores.
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
+<!-- ===================== GITHUB ===================== -->
 
 <div align="center">
 
-## CURRENTLY
+## GITHUB
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=600&lines=Improving+Python;Building+with+Next.js;Learning+Cybersecurity;Developing+Real-World+Applications" />
-</a>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-<div align="center">
-
-## CONTRIBUTIONS
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiaz&theme=github_dark"
+width="95%"
+/>
 
 <br>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiaz&theme=github_dark"
-  width="95%"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=curiaz&theme=github-dark-blue&hide_border=true"
-  height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=curiaz&theme=github-dark-blue&hide_border=true"
+width="95%"
 />
 
 </div>
@@ -211,9 +128,141 @@ for creating and managing online stores.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=90&section=footer&animation=fadeIn" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=curiaz&label=PROFILE+VIEWS&color=238636&style=flat-square"/>
+
+</div><!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Web+Developer;Building+%7C+Learning+%7C+Improving" />
 
 <br>
+
+<a href="https://github.com/curiaz">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://jeremiahcurias.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/curias-jeremiah-james-a-b71076320/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ===================== -->
+
+<div align="center">
+
+## ABOUT ME
+
+Computer Science graduate and Software Developer focused on building practical,
+user-focused applications across frontend, backend, and database systems.
+
+Interested in web development, backend engineering, cybersecurity, and learning
+new technologies through real-world projects.
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<div align="center">
+
+## TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,nextjs,react,fastapi,flask,nodejs,supabase,firebase,postgresql,git,github,vscode,figma&perline=9" />
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<div align="center">
+
+## PROJECTS
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<b>MediChain</b><br>
+Healthcare platform with AI-assisted diagnosis and blockchain-integrated records.<br>
+<sub>Python · Flask · JavaScript</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>Inspire Cinema</b><br>
+Cinema booking platform with customer and administrative features.<br>
+<sub>Next.js · React · TypeScript</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<b>Pawnshop Management</b><br>
+Management system for finance, inventory, employees, and operations.<br>
+<sub>Next.js · TypeScript · PostgreSQL</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>Content Management System</b><br>
+CMS and e-commerce platform for managing online stores and content.<br>
+<sub>TypeScript · JavaScript · Supabase</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ===================== -->
+
+<div align="center">
+
+## GITHUB
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiaz&theme=github_dark"
+width="95%"
+/>
+
+<br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=curiaz&theme=github-dark-blue&hide_border=true"
+width="95%"
+/>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=curiaz&label=PROFILE+VIEWS&color=238636&style=flat-square"/>
 
