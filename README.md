@@ -111,7 +111,7 @@ Web-based pawnshop management system with finance, inventory, employees and oper
 
 <td width="50%">
 
-### 🛒 Content Management System
+### Content Management System
 
 E-commerce CMS for creating and managing online stores without complex coding.
 
@@ -153,7 +153,11 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 ## CONTRIBUTIONS
 
-<img src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+</picture>
 
 </div>
 
@@ -167,7 +171,6 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-### `BUILD • LEARN • DEBUG • REPEAT`
 
 <img src="https://komarev.com/ghpvc/?username=curiaz&label=PROFILE+VIEWS&color=238636&style=flat-square"/>
 
