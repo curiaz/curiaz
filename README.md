@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Web+Developer;Python+%7C+TypeScript+%7C+JavaScript;Next.js+%7C+FastAPI+%7C+Flask;Building+%7C+Learning+%7C+Improving" />
 </a>
 
-<br>
+<br><br>
 
 <a href="https://github.com/curiaz">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -40,17 +40,18 @@ practical and user-focused applications.
 </p>
 
 <p align="center">
-My experience includes developing web applications, management systems,
+Experienced in developing web applications, management systems,
 content platforms, and database-driven applications.
 </p>
 
 <p align="center">
-I enjoy working across the frontend and backend, learning new technologies,
-solving technical problems, and turning ideas into functional software.
+I enjoy working across frontend and backend development,
+learning new technologies, solving technical problems,
+and turning ideas into functional software.
 </p>
 
 <p align="center">
-Currently developing my skills in web development, backend engineering,
+Currently expanding my skills in web development, backend engineering,
 and cybersecurity.
 </p>
 
@@ -68,13 +69,13 @@ and cybersecurity.
 
 <br><br>
 
-### Frameworks and Libraries
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,flask,nodejs" />
 
 <br><br>
 
-### Database and Backend
+### Database & Backend
 
 <img src="https://skillicons.dev/icons?i=supabase,firebase,postgresql" />
 
@@ -102,11 +103,13 @@ and cybersecurity.
 <h3>MediChain</h3>
 
 <p>
-Healthcare platform with AI-assisted diagnosis and
-blockchain-integrated health records.
+Healthcare platform with AI-assisted diagnosis
+and blockchain-integrated health records.
 </p>
 
-<code>Python</code> <code>Flask</code> <code>JavaScript</code>
+<code>Python</code>
+<code>Flask</code>
+<code>JavaScript</code>
 
 </td>
 
@@ -115,11 +118,13 @@ blockchain-integrated health records.
 <h3>Inspire Cinema</h3>
 
 <p>
-Cinema booking platform with customer and
-administrative management features.
+Cinema booking platform with customer
+and administrative management features.
 </p>
 
-<code>Next.js</code> <code>React</code> <code>TypeScript</code>
+<code>Next.js</code>
+<code>React</code>
+<code>TypeScript</code>
 
 </td>
 
@@ -132,11 +137,13 @@ administrative management features.
 <h3>Pawnshop Management</h3>
 
 <p>
-Management system covering finance, inventory,
-employees, and daily operations.
+Management system covering finance,
+inventory, employees, and operations.
 </p>
 
-<code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>PostgreSQL</code>
 
 </td>
 
@@ -149,7 +156,9 @@ Content and e-commerce management platform
 for creating and managing online stores.
 </p>
 
-<code>TypeScript</code> <code>JavaScript</code> <code>Supabase</code>
+<code>TypeScript</code>
+<code>JavaScript</code>
+<code>Supabase</code>
 
 </td>
 
@@ -166,35 +175,25 @@ for creating and managing online stores.
 
 ## CURRENTLY
 
+<a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=600&lines=Improving+Python;Building+with+Next.js;Learning+Cybersecurity;Developing+Real-World+Applications" />
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-
-<div align="center">
-
-## GITHUB ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=curiaz&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-
-</div>
-
----
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
 <div align="center">
 
 ## CONTRIBUTIONS
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiaz&theme=github_dark" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake.svg">
+</picture>
 
 </div>
 
@@ -203,8 +202,6 @@ for creating and managing online stores.
 <!-- ===================== FOOTER ===================== -->
 
 <div align="center">
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 
