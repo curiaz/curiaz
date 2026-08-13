@@ -199,11 +199,6 @@ for creating and managing online stores.
 <br><br>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-  height="170"
-/>
-
-<img
   src="https://streak-stats.demolab.com?user=curiaz&theme=github-dark-blue&hide_border=true"
   height="170"
 />
