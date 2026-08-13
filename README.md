@@ -28,7 +28,7 @@
 
 <div align="center">
 
-## ⚡ ABOUT ME
+## ABOUT ME
 
 **Software Developer • Web Developer • Security Enthusiast**
 
@@ -45,7 +45,7 @@ and enjoy solving technical problems.
 
 <div align="center">
 
-## 🧰 TECH STACK
+## TECH STACK
 
 ### Languages
 
@@ -71,7 +71,7 @@ and enjoy solving technical problems.
 
 <div align="center">
 
-## 🚀 PROJECTS
+## PROJECTS
 
 </div>
 
@@ -79,7 +79,7 @@ and enjoy solving technical problems.
 <tr>
 <td width="50%">
 
-### 🏥 MediChain
+### MediChain
 
 AI-driven diagnosis and prescription system with blockchain-integrated health records.
 
@@ -89,7 +89,7 @@ AI-driven diagnosis and prescription system with blockchain-integrated health re
 
 <td width="50%">
 
-### 🎬 Inspire Cinema
+### Inspire Cinema
 
 Cinema booking platform with customer movie/ticket flows and an admin dashboard.
 
@@ -101,7 +101,7 @@ Cinema booking platform with customer movie/ticket flows and an admin dashboard.
 <tr>
 <td width="50%">
 
-### 🏪 Pawnshop Management
+### Pawnshop Management
 
 Web-based pawnshop management system with finance, inventory, employees and operations.
 
@@ -127,7 +127,7 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 <div align="center">
 
-## 🔭 CURRENTLY
+## CURRENTLY
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Improving+Python;⚛️+Building+with+Next.js;🔐+Learning+Cybersecurity;🚀+Building+Real-World+Projects" />
 
@@ -139,7 +139,7 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 <div align="center">
 
-## 📊 GITHUB
+## GITHUB
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=curiaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
@@ -157,7 +157,7 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 <div align="center">
 
-## 🏆 GITHUB TROPHIES
+## GITHUB TROPHIES
 
 <img src="https://github-profile-trophy.vercel.app/?username=curiaz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
@@ -169,7 +169,7 @@ E-commerce CMS for creating and managing online stores without complex coding.
 
 <div align="center">
 
-## 🐍 CONTRIBUTIONS
+## CONTRIBUTIONS
 
 <img src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
