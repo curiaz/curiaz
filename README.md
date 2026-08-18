@@ -109,7 +109,7 @@ CMS and e-commerce platform for managing online stores and content.<br>
 ## GITHUB
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=curiaz&theme=github_dark"
+src="https://raw.githubusercontent.com/curiaz/curiaz/gh-pages/github-snake-dark.svg"
 width="95%"
 />
 
