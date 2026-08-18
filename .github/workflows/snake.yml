@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repository first
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generate snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -20,9 +25,16 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload Snake
-        uses: EndBug/add-and-commit@v9
+      # Push generated files to output branch
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v5
         with:
-          message: "Update contribution snake"
-          add: "dist"
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: "Update GitHub contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
