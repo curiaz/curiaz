@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: curiaz
@@ -21,12 +21,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish to GitHub Pages
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+          jekyll: false
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
