@@ -61,16 +61,16 @@ new technologies through real-world projects.
 
 <td width="50%" align="center">
 
-<b>MediChain</b><br>
-Healthcare platform with AI-assisted diagnosis and blockchain-integrated records.<br>
-<sub>Python · Flask · JavaScript</sub>
+<b>QuickPawn / Pawnshop Management System</b><br>
+Multi-branch pawnshop management system with client management, subscriptions, branch operations, users, and financial tracking.<br>
+<sub>Next.js · React · TypeScript · PostgreSQL · Supabase</sub>
 
 </td>
 
 <td width="50%" align="center">
 
 <b>Inspire Cinema</b><br>
-Cinema booking platform with customer and administrative features.<br>
+Cinema management and booking platform with customer-facing features and administrative management.<br>
 <sub>Next.js · React · TypeScript</sub>
 
 </td>
@@ -81,17 +81,37 @@ Cinema booking platform with customer and administrative features.<br>
 
 <td width="50%" align="center">
 
-<b>Pawnshop Management</b><br>
-Management system for finance, inventory, employees, and operations.<br>
-<sub>Next.js · TypeScript · PostgreSQL</sub>
+<b>MediChain</b><br>
+Healthcare platform combining AI-assisted diagnosis features with blockchain-based record management.<br>
+<sub>Python · Flask · JavaScript · Blockchain</sub>
 
 </td>
 
 <td width="50%" align="center">
 
-<b>Content Management System</b><br>
-CMS and e-commerce platform for managing online stores and content.<br>
+<b>CMS E-Commerce Platform</b><br>
+Content management and e-commerce system with product, content, and online store management features.<br>
 <sub>TypeScript · JavaScript · Supabase</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<b>Money Tracker</b><br>
+Personal finance spreadsheet system for tracking income, expenses, budgets, recurring expenses, and savings goals.<br>
+<sub>Excel · Google Sheets · Data Validation · Financial Tracking</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<b>Field Service Management SaaS</b><br>
+SaaS concept for managing service requests, technician schedules, jobs, and field operations.<br>
+<sub>Web Development · SaaS · Database Systems · UI/UX</sub>
 
 </td>
 
@@ -99,8 +119,6 @@ CMS and e-commerce platform for managing online stores and content.<br>
 </table>
 
 </div>
-
----
 
 <!-- ===================== GITHUB ===================== -->
 
