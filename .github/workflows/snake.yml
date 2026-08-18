@@ -3,7 +3,6 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -21,10 +20,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish snake
+      - name: Publish to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
