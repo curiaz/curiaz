@@ -127,8 +127,9 @@ SaaS concept for managing service requests, technician schedules, jobs, and fiel
 ## GITHUB
 
 <img
-src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg"
-width="95%"
+  src="https://raw.githubusercontent.com/curiaz/curiaz/output/github-snake-dark.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
